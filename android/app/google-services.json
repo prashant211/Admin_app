@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "101974208074",
+    "firebase_url": "https://flutter-prep-91856-default-rtdb.firebaseio.com",
+    "project_id": "flutter-prep-91856",
+    "storage_bucket": "flutter-prep-91856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101974208074:android:542f6aab32e39b645cc0b3",
+        "android_client_info": {
+          "package_name": "com.example.footwear_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYsYxmcYNalvwkcsvNWFd-jUBVR1I643Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
